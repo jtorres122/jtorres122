@@ -7,7 +7,7 @@
 
 </br>
 <h4> 
-	<img align="right" src="https://64.media.tumblr.com/tumblr_ma7y9hSqLU1rwiv8j.gif"/> 
+	<img align="right" src="https://64.media.tumblr.com/tumblr_ma7y9hSqLU1rwiv8j.gif" width="500" height="275"/> 
 
 - 👋 My name is Jose J Torres, but everybody calls me Julian.
 - 👀 I aspire to make tech that makes Diabetes easily manageable
