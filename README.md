@@ -5,7 +5,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jtorres122&show_icons=true&theme=algolia" alt="jtorres" width=420 height=180/>
 </p>
 
-</br>
+
 <h4> 
 
 - 👋 My name is Jose J Torres, but everybody calls me Julian.
