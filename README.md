@@ -1,8 +1,8 @@
 <h1 align="center">I'm Julian <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">	<a href="https://www.linkedin.com/in/jtorres122/"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 25px></a> </h1>
 
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtorres122&show_icons=true&locale=en&layout=compact&theme=radical" alt="jtorres122" width=360 height=180/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtorres122&show_icons=true&theme=radical" alt="jtorres" width=420 height=180/>
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtorres122&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jtorres122" width=360 height=180/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtorres122&show_icons=true&theme=algolia" alt="jtorres" width=420 height=180/>
 </p>
 
 </br>
