@@ -34,7 +34,7 @@
 | Project name | Description |
 | --- | --- |
 |[Printf](https://github.com/jtorres122/printf)| The program is designed to mimic the printf function in C.|
-|[Simple_Shell](https://github.com/lujima/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
+|[Simple_Shell](https://github.com/luijma/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
 |[Sorting Algorithms](https://github.com/jtorres122/sorting_algorithms)| Sorting algorithms & Big O notation |
 |[AirBnB - The Console](https://github.com/jtorres122/AirBnB_clone)| Python packages, command interpreter in Python using the cmd module, unit testing and how to implement it in a large project and more|
 |[AirBnB clone - Web framework](https://github.com/jtorres122/AirBnB_clone_v2)| Build a web framework with flask, define routes in Flask, handle variables in a route, create a HTML response, dynamic templates, and displaying data from MySQL|
