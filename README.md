@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href='./Resume.pdf'><img src="https://img.shields.io/badge/RESUME-red?style=for-the-badge"></a>
-<a target='_blank' href='https://www.linkedin.com/in/jtorres122/'><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
+<a href='https://www.linkedin.com/in/jtorres122/' target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
 </p>
 
 <p align="center">
